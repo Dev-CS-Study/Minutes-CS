@@ -1,6 +1,7 @@
 # OSI7 layer & TCP/IP4 layer
 
 <img src="../images/psy/osi7-layer.PNG">
+<img src="../images/psy/osi7-layer2.PNG">
 
 # Application Layer
 
